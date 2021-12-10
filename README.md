@@ -1,7 +1,7 @@
 ## HOW TO USE ##
-<p>Go to [this](https://www.onlinegdb.com/online_python_compiler) website</p>
-<p>Then paste in the code from `cal.py`</p>
-<p>Press run, and have ... fun?</p>
+- Go to [this](https://www.onlinegdb.com/online_python_compiler) website
+- Then paste in the code from `cal.py`
+- Press run, and have ... fun?
 
 ## CREDITS ##
-<p>crue-ton</p>
+- crue-ton
